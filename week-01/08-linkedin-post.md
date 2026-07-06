@@ -1,76 +1,62 @@
 # Week 1 LinkedIn Plan
 
-Post daily progress and tag the community.
+Post daily progress in your own words. Do not copy-paste the same post as
+everyone else.
 
-Use this habit:
+Keep it simple:
 
-- Complete the daily task.
-- Post one short learning update.
+- Write 3-5 lines.
+- Share what you understood.
+- Mention one thing you found easy or confusing.
 - Add one safe screenshot if useful.
 - Tag `@gangadhar ure` and `@TrainWithShubham`.
-- Use the hashtags in every post.
+- Add the hashtags at the end.
 
-## Day 1 Post - Cloud Foundations
+## Day 1 - Cloud Foundations
 
-```text
-I started Week 1 of #10WeeksOfAWS.
+Write about:
 
-Today I learned AWS Regions, Availability Zones, Edge Locations, and the Shared
-Responsibility Model.
+- What you understood about Region and Availability Zone
+- One example of AWS responsibility
+- One example of your responsibility
 
-One thing that clicked: AWS secures the cloud, but I secure what I build in it.
+## Day 2 - IAM Basics
 
-@gangadhar ure @TrainWithShubham #10WeeksOfAWS #AWS10WeekChallenge #CloudAdhar #TrainWithShubham
-```
+Write about:
 
-## Day 2 Post - IAM Basics
+- What IAM means in your own words
+- Difference between user, group, role, and policy
+- One thing that confused you
 
-```text
-Today I learned IAM basics: users, groups, roles, and policies.
+## Day 3 - Account Security
 
-The main formula I understood:
+Write about:
 
-Identity + Permissions = Access.
+- What you did for root MFA
+- Why billing alert is important
+- What you will avoid sharing publicly
 
-This helped me understand how AWS decides who can access what.
+## Day 4 - IAM Hands-On
 
-@gangadhar ure @TrainWithShubham #10WeeksOfAWS #AWS10WeekChallenge #CloudAdhar #TrainWithShubham
-```
+Write about:
 
-## Day 3 Post - Account Security
+- Which IAM user or group you created
+- What access worked
+- What access was denied
 
-```text
-Today I secured my AWS account foundation using root MFA and billing alerts.
+## Day 5 - Weekly Wrap-Up
 
-This is important because security and cost control should start from Day 1.
+Write about:
 
-My key takeaway: root user should not be used for daily work.
+- What you completed this week
+- One concept that finally clicked
+- One thing you want to revise before next week
 
-@gangadhar ure @TrainWithShubham #10WeeksOfAWS #AWS10WeekChallenge #CloudAdhar #TrainWithShubham
-```
+## Tags
 
-## Day 4 Post - IAM Hands-On
-
-```text
-Today I practiced IAM least privilege with S3, EC2, and Billing read-only access.
-
-I also tested what happens when access is denied.
-
-My key takeaway: give only the permissions required, nothing extra.
-
-@gangadhar ure @TrainWithShubham #10WeeksOfAWS #AWS10WeekChallenge #CloudAdhar #TrainWithShubham
-```
-
-## Day 5 Post - Weekly Wrap-Up
+Add this line at the end of every post:
 
 ```text
-Week 1 of #10WeeksOfAWS is done.
-
-This week I learned cloud foundations, account security, IAM, least privilege,
-and optional GitHub OIDC for temporary AWS credentials.
-
-The thing that finally clicked for me: [write your own learning here]
-
 @gangadhar ure @TrainWithShubham #10WeeksOfAWS #AWS10WeekChallenge #CloudAdhar #TrainWithShubham
 ```
 
